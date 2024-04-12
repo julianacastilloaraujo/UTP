@@ -8,4 +8,4 @@ Recursos para la charla 👩‍💻:
 > Spaker: Juliana Castillo Araujo
 
 # Descargar la presentación 👇🏻
-[Haz un CLIC Aqui 🙌🏻](https://github.com/julianacastilloaraujo/UTB/files/14964465/UTP.pptx)
+[Haz un CLIC Aqui 🙌🏻](https://github.com/julianacastilloaraujo/UTP/files/14964495/UTP.pptx)
